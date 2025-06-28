@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**netdragonx/netdragonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-28T19:24:00.711Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0x80B1b33a888924EE204b27553D270B3ae6a22ac4"
+    }
+  ]
+}
+WALLET-LINKING-END -->
